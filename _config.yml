@@ -1,0 +1,14 @@
+layout_spectrum: 0.06630825
+typography_spectrum: 0.344086
+color:
+  saturation: 0.6036441
+  lightness: 0.4255139
+  brandStrength: 0.8546399
+  rhythmicContrast: 0.3974524
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: Breman
