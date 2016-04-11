@@ -1,5 +1,7 @@
-layout_spectrum: 0.589599
 name: Breman
+favicon: null
+layout_spectrum: 0.589599
+typography_spectrum: 0.344086
 collections:
   - index:
       navigable: true
@@ -12,15 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
+  brandColors:
+    - '#020001'
+    - '#b6dbeb'
+    - '#424c57'
+    - '#48679e'
+    - '#9a3e13'
   brandStrength: 0.8546399
   lightness: 1
   saturation: 1
   rhythmicContrast: 0.8884712
-  brandColors:
-    - '#020202'
-    - '#CEC7BE'
-    - '#7FB4BE'
-    - '#F2FFFF'
-    - '#4366CF'
-typography_spectrum: 0.344086
+purpose: []
