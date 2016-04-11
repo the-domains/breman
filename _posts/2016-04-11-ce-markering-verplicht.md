@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-04-11T08:14:24.998Z'
+datePublished: '2016-04-11T18:27:37.270Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: CE -markering verplicht?
-dateModified: '2016-04-10T20:19:19.726Z'
+dateModified: '2016-04-11T18:25:37.608Z'
 sourcePath: _posts/2016-04-11-ce-markering-verplicht.md
 published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
